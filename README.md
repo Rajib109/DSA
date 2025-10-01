@@ -1,9 +1,11 @@
-DSA questions and solutions in C++
-# Data Structures and Algorithms (DSA) in C++
+# DSA questions and solutions in C++
+
 ## Introduction
+
 This repository contains a collection of DSA questions and their solutions implemented in C++. The main aim is to provide a comprehensive resource for learning and practicing DSA concepts.
 
 ## Topics Covered
+
 - Arrays
 - Linked Lists
 - Stacks
@@ -21,9 +23,12 @@ This repository contains a collection of DSA questions and their solutions imple
 - String Manipulation
 - Mathematical Algorithms
 - Miscellaneous Problems
+
 ## How to Use This Repository
+
 1. Clone the repository to your local machine using:
-   ```
+
+   ```bash
    git clone <repository-url>
 
 2. Navigate to the DSA directory:
@@ -31,9 +36,13 @@ This repository contains a collection of DSA questions and their solutions imple
    cd DSA
    3. Explore the different topics and their respective questions and solutions.
     4. Each topic is organized in its own folder, containing C++ files with problem statements and solutions.
-    ## Contributing
+
+   ## Contributing
+
     Contributions are welcome! If you have a DSA question and its solution in C++, feel free to create a pull request. Please ensure that your code is well-documented and follows best practices.
-    ## License
+
+   ## License
+
     This repository is licensed under the MIT License. See the LICENSE file for more details.
         ## Acknowledgements
         - This repository is inspired by various online coding platforms and educational resources.
